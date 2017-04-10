@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/dimens15"
+    android:background="@drawable/shape_desc_bg">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_intro"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_red_dark"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimens10"
+        android:text="@string/tv_info"
+        android:textColor="@android:color/holo_green_dark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimens20"
+        android:text="@string/tv_principle"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_red_dark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimens10"
+        android:text="@string/tv_maxScore"
+        android:textColor="@android:color/holo_green_dark"/>
+
+</LinearLayout>
