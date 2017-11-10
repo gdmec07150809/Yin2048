@@ -2,10 +2,10 @@
     <string name="app_name">Yin2048</string>
     <string name="tv_curr_max">当前最高分:0  </string>
     <string name="tv_history_max">历史最高分:0  </string>
-    <string name="tv_desc">亲爱的召唤师，开始踏上你的忍者之路吧！艰辛会有，险阻不断，你是否能够披荆斩棘，战胜自我，最终飞升成仙呢？</string>
-    <string name="tv_author">作者：孙强强</string>
+    <string name="tv_desc">亲爱的召唤师，开始踏上你的王者之路吧！艰辛会有，险阻不断，你是否能够披荆斩棘，战胜自我，最终晋升王者呢？</string>
+    <string name="tv_author">作者：陈镇坤</string>
     <string name="tv_period">开发周期：一周</string>
-    <string name="tv_email">联系方式：815774079@qq.com</string>
+    <string name="tv_email">联系方式：672423400@qq.com</string>
     <string name="tv_intro">游戏介绍</string>
     <string name="tv_info">这是一款类似数独的游戏，游戏分为三个等级，个数越少越难......玩家可以通过向上下左右滑动屏幕让相同并且是相邻的两个数字求和并合并的游戏......</string>
     <string name="tv_principle">计分原则：</string>
