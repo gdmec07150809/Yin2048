@@ -206,17 +206,17 @@ public class MainActivity extends AppCompatActivity {
         if (maxScore < 256) {
             msg = "亲，你太弱了";
         } else if (maxScore < 512) {
-            msg = "你晋升为下忍";
+            msg = "你晋升为青铜";
         } else if (maxScore < 1024) {
-            msg = "你晋升为中忍";
+            msg = "你晋升为黄金";
         } else if (maxScore < 2048) {
-            msg = "你晋升为上忍";
+            msg = "你晋升为铂金";
         } else if (maxScore < 4096) {
-            msg = "你晋升为精英";
+            msg = "你晋升为钻石";
         } else if (maxScore < 8192) {
-            msg = "你飞升为仙人";
+            msg = "你飞升为星耀";
         } else {
-            msg = "你已超神";
+            msg = "你已成为王者";
         }
         new AlertDialog.Builder(this)
                 .setMessage(msg)
