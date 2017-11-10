@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Yin2048</string>
+    <string name="app_name">王者2048</string>
     <string name="tv_curr_max">当前最高分:0  </string>
     <string name="tv_history_max">历史最高分:0  </string>
     <string name="tv_desc">亲爱的召唤师，开始踏上你的王者之路吧！艰辛会有，险阻不断，你是否能够披荆斩棘，战胜自我，最终晋升王者呢？</string>
