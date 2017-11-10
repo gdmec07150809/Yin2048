@@ -11,7 +11,7 @@ import android.widget.TextView;
 import com.sqq.yin2048.R;
 
 /**
- * Created by Forever_QiangGe on 2017/4/4 0004.
+ * Created by Forever_CZK on 2017/11/10;
  */
 @SuppressLint("AppCompatCustomView")
 public class ItemView extends TextView {
