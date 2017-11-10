@@ -1,5 +1,6 @@
 package com.sqq.yin2048.view;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Point;
 import android.util.TypedValue;
@@ -12,6 +13,7 @@ import com.sqq.yin2048.R;
 /**
  * Created by Forever_QiangGe on 2017/4/4 0004.
  */
+@SuppressLint("AppCompatCustomView")
 public class ItemView extends TextView {
 
     private int num;
